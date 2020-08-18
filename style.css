@@ -327,6 +327,7 @@ h3{
 	background-color: #4e5342;
 	opacity: 0.7;
 	padding: 97px 0;
+	margin-bottom: 90px;
 }
 .sec-3__items{
 	display: -webkit-box;
@@ -362,7 +363,7 @@ h3{
 
 
 .sec-4{
-	padding: 88px 0 90px 0; 
+	padding-bottom: 90px;
 	background-color: #212121;
 }
 .sec-4__content{
